@@ -19,7 +19,7 @@ public class Application {
     public void init()
     {
         Logger log = LoggerFactory.getLogger(Application.class);
-        log.info("Java app started");
+        log.info("Java app starte");
     }
 
     public String getStatus() {
